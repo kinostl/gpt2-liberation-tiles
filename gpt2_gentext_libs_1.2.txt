@@ -1,0 +1,1197 @@
+the house
+The Sandbox;CryptoLock;9;A fancy-looking sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+Wuthering Heights;ProgLock;8;
+====================
+The Wizard of Oz is a jolly good-looking middle-aged man in a ball pit, with a huge cake on his head, and an enormous cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering
+====================
+The Kitchen;CryptoLock;9;A fancy-looking kitchen, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the
+====================
+The Chosen One is attacked by a large, colorful ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip
+====================
+The Shadow Fiend is getting carried away and into the ball pit, only to find a huge cake on its table. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleC
+====================
+The Viruses!
+How to get the most out of a Pokémon;The Viruses!
+The Ball;Lockbox 5;An enormous, colorful ball sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The
+====================
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+Wuthering Heights;ProgLock;8;A super-tall room
+====================
+The Sandbox;CryptoLock;9;A fancy-looking sandbox, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;SliceLock;9;A gaping stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: Ω.
+The Sandbox;N/A;N/A;A mythical land-serpent, Nagaurs are a regular part of the region, and they call the area their home. They tend to be a bit too much of a nuisance to see, but they seem to be getting the message by getting angry...;7 angry Nagaurs in the sandbox.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Ball Pit;ThreatLock;4;A massive, colorful ball pit sits in a room with tall windows. Wizards are waiting for the players to pick their favorite NCPs, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;N/A;N/A;A nondescript room in a room with a well-stocked bar. The location of the bar tabs the players between the walls. The alarm panel
+====================
+The confrontation started out by burning a hole in the wall, and then hopping on it, hopping up and down, and catching the attention of the two Fishy Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for
+====================
+The ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, an armored knight, and an armored knightmare.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knightmare.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a
+====================
+The Cartographer
+The Closetalker
+The Sandbox;CryptoLock;9;A fancy-looking sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+Wuthering Heights
+====================
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox Garden;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalN
+====================
+Description
+
+One of the pillars breaks free and lies on a table. It is too big to find the alarm panel, and it has a t-shirt on its head. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+
+the players.
+
+The Kitchen;CryptoLock;9;MonoLock;An enormous kitchen sits in a room with tall windows. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the kitchen, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the kitchen;MultiPlayer;7
+
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in a room with tall windows. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;4 distracted Mettaurs in the ball pit;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+
+The Clubhouse;ProgLock;5;A massive club house sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup
+====================
+The Art of Painting
+The Art of Painting by Meteos
+The Beginning by Meteos
+The Sandbox by Mettaurs
+The Club by Mettaurs
+The Wall by Mettaurs
+The Sandbox 2 by Mettaurs
+The Club 2.5 by Mettaurs
+The Sandbox 2.5.5 by Mettaurs
+The Club 2.5.5.5 by Mettaurs
+The Sandbox 2.6 by Mettaurs
+The Sandbox 2.8 by Mettaurs
+The Sandbox 3 by Mettaurs
+The Club 3.5 by Mettaurs
+The Sandbox 3.6 by Mettaurs
+The Sandbox 3.8 by Mettaurs
+The Sandbox 4 by Mettaurs
+The Club 4.5 by Mettaurs
+The Sandbox 5 by Mettaurs
+The Sandbox 5.5 by Mettaurs
+The Club 5.6 by Mettaurs
+The Sandbox 5.6.6 by Mettaurs
+The Sandbox 6 by Mettaurs
+The Club 7 by Mettaurs
+The Sandbox 7.5 by Mettaurs
+The Sandbox 7.7 by Mettaurs
+The Club 8 by Mettaurs
+The Sandbox 8.5 by Mettaurs
+The Sandbox 8.5.5 by Mettaurs
+The Sandbox 9 by Mettaurs
+The Club 9.5 by Mettaurs
+The Sandbox 9.5.5 by Mettaurs
+The Club 9.6 by Mettaurs
+The Sandbox 9.6.6 by Mettaurs
+The Club 9.7 by Mettaurs
+The Sandbox 10 by Mettaurs
+The Club 10.5 by Mettaurs
+The Sandbox 10.5.5 by Mettaurs
+The Club 10.7 by Mettaurs
+The Sandbox 10.7.5 by Mettaurs
+The Club 11 by Mettaurs
+The Club 11.5 by Mettaurs
+The Sandbox 11.5 by Mettaurs
+The Club 11.7 by Mettaurs
+The Sandbox 11.7.7 by MettaursThe Club 11.7.8 by MettaursThe Sandbox 11.9 by MettaursThe Club 11.9.6 by MettaursThe Club 11.9.8.6.|T
+====================
+Threats
+The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleC
+====================
+Priests in a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kios
+====================
+Threat The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for
+====================
+Light a fire around the room, periodically striking
+the players.
+The Kitchen;CryptoLock;9;A fancy-looking kitchen, complete with a well-stocked bar, fruit bowls,
+wuthering places to play in, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of
+====================
+The UFC tournament is on. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as
+====================
+The HudHawk;Threat;REQUIRES;Trading Card;Works with router;An Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Haz
+====================
+Description
+
+Here you will find a huge kitchen, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll
+====================
+The fundamentals of playing a competitive game are well-stocked, well-stocked bar, well-stocked office, and an enormous cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with
+====================
+Canuses in the ball pit, too. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the
+====================
+The final battle of the First Order begins here...!
+
+The venue is up and running, and the alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and com
+====================
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi
+====================
+The Witcher, HBO's upcoming HBO GO, and their web-app shop, ToJoe and Mila in their cozy kitchen, amped-up in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The K
+====================
+the game is in training mode, so don’t forget to roll in to play.
+The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy
+====================
+Narrows of sunlight striking the players. The alarm panel is behind the bar. The alarm panel is wearing a paper hat. The players should pick a few things to do in the ball pit, including playing in it, playing in the hauler, playing in the sails, and more. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the ball pit, periodically striking the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Moustache Moustache;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Sandbox;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the sand sculptures and attack the players.
+The Scavenger Hunt;ProgLock;4;A massive room with a rocky walkway around deep
+====================
+High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+
+====================
+Melbourne City hosted afunny ball pit, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to
+====================
+The present invention relates to an organization consisting of a panel of glass blocks and a table. The players and two food rangers are playing in it, and they have a ton of cutlery, and two large colorful animals in their ball pit. The alarm panel is behind the bar. The players can see a Ascalonian by the cake and an Mettaurs in the kitchen, and they are wearing flak jackets and a sand bucket on their heads. The Ascalonian and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The next step in the organization's plan is to stop the Ascalon and get their attention. The next door is a large room, with a large room-a-in-the-middle, known as a thel'Omnietroppet. The players can see a Anotherill by the cake and an Mettaurs in the kitchen, and they are wearing sand buckets on their heads. The anotherill is wearing a paper hat.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The next door in the organization's plan is a large room, with a a a in the kitchen, and an armored knight on a chocobo cart.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The next step in the organization's plan is to stop the Ascalons and get their attention. The next door in the organization's plan is a large room, with a a a in the kitchen, and an armored knight on a chocobo cart.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The next door in the organization's plan is a large room, with a a a a in the kitchen, and an armored knight on a chocobo cart.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The next door in the organization's plan is a large room, with a a a a in the kitchen, and an armored knight on a chocobo cart.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The next door in the organization's plan is a large room, with a a a a in the kitchen, and an armored knight on a chocobo cart.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The next door in
+====================
+High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+
+====================
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi
+====================
+Threat level has been reduced by 2.
+The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me
+====================
+more-in
+
+Scans are coming and going and they might get a bit... moving about and playing in it have a bit too much free time, they might get angry...;7 distracted Mettaurs in the middle of a huge room. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control
+====================
+The Stevenson Prisoner's Club is here to protect you from the evil that is the Club, and you might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Kitchen;SyncLock;4;A massive kitchen sits in a room with tall windows. A lone Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open:
+====================
+Neatka! Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping
+====================
+The puzzle, devised by Quetzal's Mateo, is to find a piece of paper on a table. Instead of reading the paper, they show you a video of a huge Pokémon appearing, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the video, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the video.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;
+====================
+If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e
+====================
+The Claude DuJour Charcoal Shop is a cozy room, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info
+====================
+The Hidden Garden of Eden
+The Hidden Garden of Eden
+The Sandbox
+The Sandbox
+The Clubhouse
+The Sandbox
+The Clubhouse
+The Theo Project
+The Theo Project
+The Quiz King
+The Quiz King
+The Sandbox
+The Clubhouse
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Quiz King
+The Sandbox
+The Sandbox
+The Sandbox
+The Quiz King
+The Sandbox
+The Sandbox
+The Quiz King
+The Sandbox
+The Quiz King
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Quiz King
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+The Sandbox
+====================
+The Battletech Magi Faire has got a bit pricey, and Elon has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a wildflower, a Kibitzmare, a Quiz King, and an Appley behind the bar.;Light hazard - the Mettaur skin begins to fade, sparking a succession of energetic shivers.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a wildflower, a Kibitzmare, a Quiz King, and an Appley behind the bar.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the warrior.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’
+====================
+The Kurtzisher;Ultra;9;A fancy-looking kitchen, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the
+====================
+The Acme Sampler;Lockbox 5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+Wuthering Heights;ProgLock;8;A super-tall room
+====================
+Despite their cynicism, Boys Town is a cozy ball pit, complete with a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall
+====================
+But why? •When Draco discovers the body of a young Girl Scout, he and the rest of the kids are too embarrassed to recognize the boy in the pic...
+But why? •When Draco discovers the corpse of a Young Boy Scout, he and the rest of the kids are too embarrassed to recognize the boy in the pic...
+
+7
+
+6.5 6.5
+
+7.5 OutOf4Players Pro
+
+6.5 OutOf4Players Pro
+
+7.5 OutOf4Players Pro
+
+7.5 OutOf4Players Pro
+
+8
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+8
+
+4
+
+5
+
+8
+
+4
+
+5
+
+9
+
+5
+
+9
+
+5
+
+9
+
+5
+
+9
+
+9
+
+5
+
+9
+
+9
+
+10
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+10
+
+4
+
+4
+
+10
+
+4
+
+5
+
+9
+,$";Sello: $9.99Buyer pays,os $9.99Merchant votes,{Red,Male,Armor,Default|wet;Normal;Aboard a small boat, a Draggin by the cake and an Appley behind the bar.;9 workers to get the ball rolling, 7 volunteers (two of whom are playing in the ball pit) and an Appley behind the bar.premium;If you disturb the Mettaurs too much, they might get angry...;OutOf4Players Pro
+
+,$5,ChargeAddr,1,0,5.9,1.9,1.9,5.9,{"fade"},4.5
+
+1.9
+
+4.5
+
+4.5
+
+4.5
+
+4.5
+
+4.5
+
+4.5
+
+5
+
+9
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+5
+
+8
+
+4
+
+4
+
+4
+
+4
+
+5
+
+8
+
+4
+
+4
+
+5
+
+9
+
+4
+
+5
+
+9
+
+4
+
+5
+
+9
+====================
+High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+
+====================
+Description
+
+The BattleMech is battling a Draggin by the cake and fruit bowls, and it can be heard the music before. The alarm panel is behind the bar. A Draggin in a ball hat sits in the ball pit.;High alert! The alarm panel is behind the bar. A Draggin in a pegasus ball hat sits in the pegasus ball pit.;High alert! The alarm panel is behind the bar. A Pegasus ball hat sits in the ball pit.;High alert! The alarm panel is behind the bar. A Mystery Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Draggin in a lightning rod hat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Draggin in a punchy hat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Mud Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Mud Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Mud Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Mud Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Mud Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert! The alarm panel is behind the bar. A Sandy Ball Bat sits in the sand pit.;High alert!
+====================
+The Subcommittee on New Technologies;Locked;Resurrected;An unlikely superhero team, vying for attention atop a large, colorful room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/
+====================
+for the game
+The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards!
+====================
+Amber Rhodes takes out a huge cake, and throws it at the players. The alarm panel is behind the bar. The alarm panel is behind the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well
+====================
+It's called a Screen, and I find it particularly entertaining to watch the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools
+====================
+Honey Badger 2,083 of 7,772 Sponsor Message Sponsor Message
+
+Add To My Favorites
+
+Add To My Favorites
+
+Add To My Favorites
+
+My Kitchen, Dorm, Cupboard, Kitchen, Sandbox, Kitchen, Mettaurs, and Sandbox Gargoyle Cards
+
+Add To My Favorites
+
+My Kitchen, Dorm, Cupboard, Kitchen, Sandbox, Kitchen, Mettaurs, and Sandbox Gargoyle Cards
+
+I Can Wait, Dorm, Cupboard, Kitchen, Sandbox, Kitchen, Mettaurs, and Sandbox Gargoyle Cards
+
+I Can Wait, Cupboard, Kitchen, Sandbox, Kitchen, Mettaurs, and Sandbox Gargoyle Cards
+
+Are You With The Mettaurs, Calling A Mettaur A Mettaurs, and A Voice Mettaurs?
+
+A Voice Mettaurs, Calling A Mettaurs, and A Voice Mettaurs? A Mettaurs Are Coming!
+
+A Voice A Mettaurs, Giving A Voice A Mettaurs, Breaking The Silence, and Scolding The Mettaurs
+
+A Voice A Mettaurs, Mettaiting The Mettaurs, Calling A Mettaurs, And A Voice Mettaurs Is Getting The Mettaurs Into The Ball Pit
+
+A Voice A Mettaurs, Scolding The Mettaurs, Garbage Pail, And A Voice Mettaurs Ball Pit
+
+A Voice A Mettaurs, Mettaiting The Mettaurs, Calling A Mettaurs, And A Voice Mettaurs Is Getting The Mettaurs Into The Ball Pit
+
+A Voice A Mettaurs, Mettaiting The Mettaurs, Calling A Mettaurs, And A Voice Mettaurs Is Getting The Mettaurs Into The Ball Pit
+
+A Voice A Mettaurs, Mettaiting The Mettaurs, Calling A Mettaurs, And A Voice Mettaurs Is Getting The Mettaurs Into The Ball Pit
+
+A Voice A Mettaurs, Mettaiting The Mettaurs, Calling A Mettaurs, and A Voice Mettaurs Is Getting The Mettaurs Into The Ball Pit
+
+A Voice A Mettaurs, Mettaiting The Mettaurs, Calling A Mettaurs, and A Voice Mettaurs Is Getting The Mettaurs Into The Ball Pit
+====================
+ThreatReverser (Male)
+The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.
+====================
+An exceptional trio of Seattle ball players, busy playing in a ball pit, are met with a loud ooze. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to
+====================
+The Art of Hallo
+The competition was in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleC
+====================
+no load balancing, so don -<; Its probably not a very fun game, and its not like the alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and com
+====================
+the Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi
+====================
+The Pariah's Paw, with a lone ram, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open
+====================
+A casual bike ride along the shoreline. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the
+====================
+The mystery behind Portgas, the bar, the game show, and the cast of the HBO show Game of Thrones;How much did you know about the Mr. Prog?
+The Mr. Prog, a limousine driver, and his wife, Mona, and child, Joffrey and Mettaare;9;A fancy-looking dinner party, complete with a risotto, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog is hiding in it, and he has a plan. The alarm panel is behind the bar. A Draggin by the sand bucket and an Appley behind the bar.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First,
+====================
+The Circus
+An enormous, colorful sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse
+The alarm panel is somewhere in the sand... Backup - Swordys! The alarm panel is behind the bar.
+The Wall
+The sand sculptures are crumbling around the room. A Cutlass by the side observes.
+The Kiosk
+A lone Manvator by the side tells the Kiosk to get down. The Kiosk responds by getting angry...;7 distracted Kiosks are sitting on the other side of the wall.
+The Kiosy Ball
+The alarm panel is somewhere in the sand... Backup - Men using the ball.
+The Mudpit
+The mud is crumbling around the room. A Cutlass by the side observes.
+The Kiba
+The Kiba is playing in a pit in the middle of a large room. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Wall
+The wall is crumbling around the room. A Cutlass by the side observes.
+The Koko
+The Koko is playing in a wall behind a bar. A Sandbox Crawler by the cake and an Appley behind the bar.;9 distracted Kokkles are hopping about and playing in it.
+The Appley
+The Sandbox Crawler is behind the bar. A Sandbag by the cake and an Appley behind the bar.;An Appley behind the bar.;Light hazard - the alarm panel starts to crumble around the room.
+The Sandbox Liche
+The Sandbox Liche is somewhere in the sand... Backup - Both of the players! The Sandbox NCPs are flying around the room, periodically striking
+the players.
+The Kanga
+The Kanga is playing in a cave in the middle of
+====================
+the fruit bowls
+the players can pick up; an enormous, colorful fruit-filled room, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. The alarm panel is behind the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood
+====================
+Barrier dryer. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards
+====================
+The Naval Academy on Firaxis. The players get to control a school in a dystopian future. They have to destroy the nuclear arsenals, as well as a robotic knight, and an armored brawler. The alarm panel is behind the counter. The alarm panel is holding a book, and a huge cake on a table. The alarm panel is wearing a paper hat. The players can pick a team and an estimate, and they can make a wish, by rubbing a hand on the screen. The dream team gets a wish, and a microphone, alert the players, and an expert lab assistant. The alarm panel is behind the bar. The Kiosk is selling snacks, and the alarm panel is bouncing the sand off the players. The alarm panel is wearing a paper hat. The Kiosk is selling bread, and the expert lab assistant is squealing to get off the table. The alarm panel is wearing a crown, and a crown can be seen in the sand...;7 victims, 4 on the table.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is behind the bar.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts
+====================
+ProgJump => AutoLock
+
+ProgJump -> GuildKey
+
+The GuildKey :: SandboxNode -> RandomNode
+
+This is a random SandboxNode, and it's pretty cool. It has a crown, and a crown on its head, and a spear on its head; it also has a hat; it can be...
+
+ProgJump => Sneak
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A PrivateProgCleryClerk => PyromaniaCryptoLock
+
+ProgJump :: SandboxNode -> RandomNode
+
+The SandboxNode is a random node, and it has a crown on its head, and a spear on its head; it has a jewelry pouch...
+
+ProgJump :: SandboxNodes -> SandboxNodes
+
+The SandboxNodes are a little... backlit, with a crown on its head, and a blade in its clove.; it remains in the ball pit for too long; randomized.
+
+ProgJump :: Sneak
+
+N/A
+
+N/A
+
+N/A
+
+N/A privateProgCleryClerk => PyromaniaCryptoLock
+
+ProgJump :: SandboxNodes -> SandboxNodes
+
+The SandboxNodes are a little... backlit, with a crown on its head, and a blade in its clove.; it remains in the ball pit for too long; randomized.
+
+ProgJump :: Sneak
+
+N/A
+
+N/A
+
+N/A
+
+N/A privateProgCleryClerk => PyromaniaCryptoLock
+
+ProgJump :: SandboxNodes -> SandboxNodes
+
+The SandboxNodes are a little... backlit, with a crown on its head, and a blade in its clove.; it remains in the ball pit for too long; randomized.
+
+ProgJump :: Sneak
+
+N/A
+
+N/A
+
+N/A
+
+N/A privateProgCleryClerk => PyromaniaCryptoLock
+
+ProgJump :: SandboxNodes -> SandboxNodes
+
+The SandboxNodes are a
+====================
+The Shadow Shaman is one of the few Quests in The Sandbox, and it seems some might get angry...;7 distracted Mettaurs in the Sandbox.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as
+====================
+The Fish and Sandbox, Part One
+The Fish and Sandbox, Part Two
+The Fish and Sandbox, Part Three
+The Fish and Sandbox, Part Four
+The Fish and Sandbox, Part Five
+The Fish and Sandbox, Part Six
+The Fish and Sandbox, Part 7
+The Fish and Sandbox, Part 7
+The Fish and Sandbox, Part 8
+The Fish and Sandbox, Part 8
+The Fish and Sandbox, Part 9
+The Fish and Sandbox, Part 9
+The Fish and Sandbox, Part 10
+The Fish and Sandbox, Part 10
+The Fish and Sandbox, Part 11
+The Fish and Sandbox, Part 11
+The Fish and Sandbox, Part 12
+The Fish and Sandbox, Part 13
+The Fish and Sandbox, Part 14
+The Fish and Sandbox, Part 15
+The Fish and Sandbox, Part 16
+The Fish and Sandbox, Part 17
+The Fish and Sandbox, Part 18
+The Fish and Sandbox, Part 19
+The Fish and Sandbox, Part 20
+The Fish and Sandbox, Part 21
+The Fish and Sandbox, Part 22
+The Fish and Sandbox, Part 23
+The Fish and Sandbox, Part 24
+The Fish and Sandbox, Part 25
+The Fish and Sandbox, Part 26
+The Fish and Sandbox, Part 27
+The Fish and Sandbox, Part 28
+The Fish and Sandbox, Part 29
+The Fish and Sandbox, Part 30
+The Fish and Sandbox, Part 31 {Select a tile: Tiles 2 to 5, 5 friendly, 2 hostile; Ledge Duration: 1 turn; Damage 5 (Light hazard), (Greedy hazard), (Omniscient hazard), (Gargoyle hazard), (Threatened Mettaur hazard), (Threatened Mudcrab hazard), (Alarm appt. & Apptaker Appt. off), Order by Appt. All}(Appt. & Appt. running out of tiles), Return All!
+The Fish and Sandbox, Part One
+The Fish and Sandbox, Part Two {Deck Tech: Add Sandbox, Replace Fish, Mute All, Be Good, Cool, Terrific, Fun, Enduring, Protect, Calculable, Trick, Fun, Service, Trash, Burn, Arrange, Serve, Pay, Flush, Gener
+====================
+The Charaics are replacing the furniture. If you disturb the NCPs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell,
+====================
+The Beginner Tools;Threat;Alarm;9;A fancy-looking kitchen, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kios
+====================
+Description
+
+
+If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra
+====================
+Threat to the public, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as
+====================
+The cuisine of the lower classes looks like a large cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open
+====================
+The CHAMPION
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Ball Pit;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the ball pit and attack the players.
+The Sandbox;ProgLock;4;A massive sandbox sits in a room with tall windows. A lone Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. the sand statues! A Mr. Prog gets up and says “You shall not pass! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the sand sandbox and attack the players.
+The Sandbox;SyncLock;4;A super-tall sandbox sits in a room with a ceiling of sand. As the players step into the room, a blue Mr. Prog blocks the way and says “You shall not pass! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from
+====================
+Passive effects
+
+The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Haz
+====================
+The little ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They�
+====================
+If you already have Tic-Tac-Toe, open it and take a look around. All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see the many colorful balls and dance pits the blue players can run in to, including watching the fun from a bit behind the ball
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It's covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. If you disturb the Mettaur too much, he might get angry...;7 distracted Metturs in the Clubhouse.
+The Kiosk;N/A;N/A;A Normal NCPs are flying around the room, periodically striking
+the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It might be somewhere in the sand... Backup - the Sand Tavernier! A Mr. Prog (with a crown on his head) has had a bit too much free time, and has made several beautiful sand sculptures, including a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - the Sand Tavernier! A Mettaur Ω pops out of the sand statues! A Swordy erupts from the blue player.
+The Kiosk;N/A;N/A;A Normal NCPs are flying around the room
+====================
+The Floor is a small room with a low ceiling. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve
+====================
+Glitterbugtrap
+The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards
+====================
+Note: The cloth layer over the cake is too large to see through the window. Save the date and time by stealing the cake from the player.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and
+====================
+the initiate;CryptoLock;9;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+Wuthering Heights;ProgLock;8;A super-tall room with
+====================
+the Light of the Singularity
+The Masquosh 5 Piece Light Suit Kit is here! It has a light show hang in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/
+====================
+box;Description;Threat;Alarm
+The Kitchen;CryptoLock;9;A fancy-looking kitchen, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control
+====================
+A Mushroom Cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and
+====================
+The MP4 Listen app lets you listen to music, photos, videos, games, games consoles, collectibles, games consoles, trees, and more.
+
+
+The App
+
+The App Store -- App Store -- 89 reviews
+
+The Book Club -- The disc jotting, the creative team, and the amoeba — The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit -- Control four ball pit rats. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox -- The sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse -- The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Wall -- The ceiling is relatively low. A rummaged-garbage can is somewhere in the wall, too. If you disturb the Mettaurs too much, they might get angry...;Backup - a Swordy and Swordy with sand buckets on their heads!
+The Kiosk -- The Kiosk is somewhere in the sand, too. If you disturb the Mettaurs too much, they might get angry...;Backup - a Marowak and an Appley, then a Mr. Prog with a crown, and an armored knight
+The Wallpaper Lab -- The lab sits in a room with tall windows. A lone Mr. Prog with
+====================
+Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal
+====================
+Leslie Waddle
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A
+====================
+The Synthesis Point
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N/A
+Wuthering Heights;ProgLock;8;
+====================
+In the Medical Bay, a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall hangs in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the wall of
+====================
+Countdown;Maximum score is 5;Variable length;Alarm
+The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source
+====================
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi
+====================
+Threat A
+The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards!
+====================
+the alarm panel, lamp
+The Kitchen;CryptoLock;9;An enormous, colorful kitchen, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be
+====================
+The Purcello Brothers! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the vendor to sell, as well as some fun extra items (e.g. learning a hint, restoring HP, refreshing a chip, getting a compliment).;None!;N
+====================
+The Space Shuttle Challenger has crashed into the Pacific Ocean, and crew members have just had a bit too much time, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open source-a-me.” Hazards! First, the ceiling starts to crumble, dropping rocks (Light hazard), and then it begins sliding down to crush the players (Normal hazard).
+The Kiosk;N/A;N/A;A NormalNavi’s running a shop here?! They’ve got a small kiosk in a cozy room, with nice mood lighting and comfy bar stools. The GM should pick a few NCPs and BattleChips for the
+====================
+In this tutorial, we'll make several different kinds of colorful sculptures. First, we'll draw a line in the sand, and then we'll repeat the process until all of the tiles have a HP of 2.
+The Kiosk by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Wall by the weeds and collecting information
+The Mettaurs in the middle of the room with the stalks, collecting information on the players.
+The Kiosk with a timer on its head, answering requests from the players.
+The Kilooms in the ball pit, hopping about and playing in it, containing alarming news and saying bad things about the locals.
+The Pumpkin by the fruit bowls and an Appley behind the bar.;Light hazard - the fruit bowls burn and produce a mess.
+The Sandbox by the caves, carrying sandbags, and making sand sculptures, helping to make the sand gardens look tidy.
+The Clubhouse by the walls, being protected by sandbags.
+The Wall by the clouds, and making sand sculptures, protecting the wall from the outside.
+The Kiosk by the cake and an Appley behind the bar.
+The Sandbox by the walls, carrying sandbags, and making sand sculptures, helping to make the sand gardens look tidy.
+The Clubhouse by the walls, and making sand sculptures, helping to make the club house look tidy.
+The Kilooms in the ball pit, hopping about and playing in it, containing alarming news and saying bad things about the locals.
+The Sandbox by the walls, and making sand sculptures, helping to make the sand gardens look tidy.
+The Kilooms in the ball pit, hopping about and playing in it, containing alarming news and saying bad things about the locals.
+The Appley behind the bar.
+The Sandbox by the walls, and making sand statues, helping to make the sand gardens look tidy.
+The Clubhouse by the walls, and keeping the room clutter- free of too much attention, and leaving the players free to do so anywhere they wish.
+The Kilooms in the ball pit, hopping about and playing in it, including a Sand Golem, a Mettaurs, and an Appley behind the bar.
+The Sand Golem by the trees, chancing at the players from all sides.
+The Sand
+====================
+A Sword Art Online player begins by restoring HP by restoring HP by 3. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. By deciphering the runes with an Info roll, they find the code to make the wall slide open: “Open
+====================
+The Jazz Club!
+The club is in the ball pit, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox!!!The Sandbox! This cave is covered in all kinds of inscriptions. Mettaurs are mostly invisible, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the sand bucket, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the sand bucket;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Clubhouse!!!The club house! Fabergos are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the club house, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the club house;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Wall!!!The wall!!One of the more colorful windows in the house, it’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the wall. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the wall;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Kiosk!!!!One of the more colorful kiosk cools are hopping about and playing in it, and they don’t seem to be paying attention to the players. The ceiling is covered in all kinds of colorful hieroglyphs. The control panel is somewhere in the kiosk, too. If you disturb the Kiosk too much, they might get angry...;7 distracted Kiosk cools, too, go Google it!;None!;The kiosk gets angry if you disturb it too much, too.
+The Kiosy!!!!One of the more colorful hots are hopping about and playing in it, and they
+====================
+The Kitchen;CryptoLock;9;A fancy-looking kitchen, complete with a well-stocked bar, fruit bowls, tons of cutlery, and a huge cake on a table. The alarm panel is behind the bar. A Draggin by the cake and an Appley behind the bar.;Light hazard - the cutlery begins flying around the room, periodically striking
+the players.
+The Ball Pit;Lockbox 5;An enormous, colorful ball pit sits in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The Sandbox;CryptoLock;5;An enormous sandbox sits in a room with tall windows. A lone Mr. Prog (with a sand bucket on its head) has had a bit too much free time, and has made several beautiful sand sculptures, including a sleeping Mettaur, a Mr. Prog with a crown, and an armored knight.;Mr. Prog got carried away and buried the alarm panel! Oops. It must be somewhere in the sand... Backup - Viruses burst out of the sand statues! A Mettaur Ω pops out of the sleeping Mettaur, and a Swordy erupts from the knight.
+The Clubhouse;ProgLock;4;In a narrow tunnel, a blue Mr. Prog blocks the way and says “You shall not pass! Cool Dudes Club members only!” Behind him, the players can see a messy room, strewn with video games and comic books, along with another Prog or two. The blue Prog is wearing a paper hat.;Mr. Prog won’t let them through! (Though he might change his mind if they prove they’re cool...);Backup - a Champy and Bestplate (two very cool dudes) come out from the club house and attack the players.
+The Wall;SyncLock;4;A massive stone wall blocks off the other exits. It’s covered in all kinds of hieroglyphs. The control panel seems to be on the other side of the
+====================
+Light around the room, periodically striking
+the players.
+The alarm panel is somewhere in the ball pit, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ball pit.;High alert! All of the adjacent tiles have their Countdown reduced by 2.
+The other players switch off the panels and move their machines to the other end of the room.
+The alarm panel is somewhere in the fog, too. If you disturb the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the fog;Low alert! All of the adjacent tiles have their Countdown reduced by 2.
+The ball pit is somewhere in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The ball pit is somewhere in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The ceiling is too low to detect the cats.
+The ceiling is too low to detect the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ceiling as well as a Nymph and two Lampsycypso
+The Lampsycypso and a Buttery are hopping about and playing in it, and they don’t seem to be paying attention to the players. The alarm panel is somewhere in the middle of a large room. Lampsys are hopping about and playing in it, and they don’t seem to be paying attention to the players. The screen is too big to find the alarm panel, and the Buttery is sleeping on the other side of the screen.
+The alarm panel is somewhere in the middle of a large room. Mettaurs are hopping about and playing in it, and they don’t seem to be paying attention to the players. The ceiling is too low to detect the cats.
+The ceiling is too low to detect the Mettaurs too much, they might get angry...;7 distracted Mettaurs in the ceiling as well as a Lampsycypso
+The Lamps
+====================
